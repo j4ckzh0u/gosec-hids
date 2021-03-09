@@ -1,4 +1,4 @@
-# 驭龙 HIDS 
+#GoSec HIDS 
 
 
 [![License](https://img.shields.io/badge/License-GPL%20v2-blue.svg?style=flat-square)](https://github.com/ysrc/yulong-hids/blob/master/LICENSE)
